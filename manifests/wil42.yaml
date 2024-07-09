@@ -48,7 +48,7 @@ spec:
     namespace: dev
     server: https://kubernetes.default.svc
   source:
-    path: /
+    path: manifests
     repoURL: 'https://github.com/jgyy/wil42'
     targetRevision: HEAD
   project: default
